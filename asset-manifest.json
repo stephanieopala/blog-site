@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stephanieopala/blog-site.git/static/css/main.f67f61a2.chunk.css",
+    "main.js": "/stephanieopala/blog-site.git/static/js/main.6104eaf0.chunk.js",
+    "main.js.map": "/stephanieopala/blog-site.git/static/js/main.6104eaf0.chunk.js.map",
+    "runtime-main.js": "/stephanieopala/blog-site.git/static/js/runtime-main.e7634fc0.js",
+    "runtime-main.js.map": "/stephanieopala/blog-site.git/static/js/runtime-main.e7634fc0.js.map",
+    "static/js/2.3865e814.chunk.js": "/stephanieopala/blog-site.git/static/js/2.3865e814.chunk.js",
+    "static/js/2.3865e814.chunk.js.map": "/stephanieopala/blog-site.git/static/js/2.3865e814.chunk.js.map",
+    "index.html": "/stephanieopala/blog-site.git/index.html",
+    "static/css/main.f67f61a2.chunk.css.map": "/stephanieopala/blog-site.git/static/css/main.f67f61a2.chunk.css.map",
+    "static/js/2.3865e814.chunk.js.LICENSE.txt": "/stephanieopala/blog-site.git/static/js/2.3865e814.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7634fc0.js",
+    "static/js/2.3865e814.chunk.js",
+    "static/css/main.f67f61a2.chunk.css",
+    "static/js/main.6104eaf0.chunk.js"
+  ]
+}
